@@ -1,15 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Saurabh Chaudhary!</h1>
+<h1>
+  <div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+  </div>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Saurabh Chaudhary!</h1>
 
 <img align="right" alt="Coder" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" width="400" />
 
 Hi! I'm a developer and a student at **NIT Hamirpur** 👨🏻‍💻. I'm a creative problem-solving enthusiast with a passion for building and learning new technologies.
 
+<img src = "https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif?raw=true" alt="Meme" width="150" height="150">
 <br/>
-
-- 🔭 I’m currently working on: Honing my skills in the **MERN** stack.
-- 🌱 I’m currently learning: Advanced concepts in **Python** and **C++** and competitive programming.
-- 👯 I’m looking to collaborate on: Interesting open-source projects, especially using Python or the MERN stack.
-- 💬 Ask me about: Anything related to my skills or projects!
+- 🔭 I’m currently working on: Honing my skills in the <b>MERN</b> stack.<br/>
+- 🌱 I’m currently learning: Advanced concepts in <b>Python</b> and <b>C++</b> and competitive programming.<br/>
+- 👯 I’m looking to collaborate on: Interesting open-source projects, especially using Python or the MERN stack.<br/>
+- 💬 Ask me about: Anything related to my skills or projects!<br/>
 - 📫 How to reach me: [**23bcs101@gmail.com**](mailto:23bcs101@gmail.com)
 
 <br/>
