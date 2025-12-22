@@ -14,7 +14,7 @@ Hi! I'm a developer and a student at **NIT Hamirpur** 👨🏻‍💻. I'm a cre
 - 🌱 I’m currently learning: Advanced concepts in <b>Python</b> and <b>C++</b> and competitive programming.<br/>
 - 👯 I’m looking to collaborate on: Interesting open-source projects, especially using Python or the MERN stack.<br/>
 - 💬 Ask me about: Anything related to my skills or projects!<br/>
-- 📫 How to reach me: [**23bcs101@gmail.com**](mailto:23bcs101@gmail.com)
+- 📫 How to reach me: <a href = "mailto:23bcs101@gmail.com">23bcs101@gmail.com
 
 <br/>
 
